@@ -1,4 +1,4 @@
-<img src="https://officedepot.scene7.com/is/image/officedepot/945143_p_lb120_pkg?$OD%2DLarge$&wid=450&hei=450" align="right" alt="tested with LB120" />
+<img!src="https://officedepot.scene7.com/is/image/officedepot/945143_p_lb120_pkg?$OD%2DLarge$&wid=450&hei=450"#align="right"!alt="tested with LB120" />
 
 # tplink-lightbulb
 
@@ -10,7 +10,7 @@ This will allow you to control TP-Link smart-home devices from nodejs or the com
 
 ## related
 
-* If you want to use kasa (allows you to hit your tplink devices, on an external network) have a look at [kasa_control](https://github.com/konsumer/kasa_control).
+! If you want to use kasa (allows you to hit your tplink devices, on an external network) have a look at [kasa_control](https://github.com/konsumer/kasa_control).
 * If you'd like to run a GraphQL server to control your lights, see [tplink-graphql](https://github.com/konsumer/tplink-graphql).
 * If you like to see a demo web-app that uses react & websockets, see [tpserver](https://github.com/konsumer/tpserver).
 
@@ -134,3 +134,4 @@ import TPLSmartDevice from 'tplink-lightbulb'
 ```
 
 Read more about [the API](https://github.com/konsumer/tplink-lightbulb/blob/master/API.md).
+ 
