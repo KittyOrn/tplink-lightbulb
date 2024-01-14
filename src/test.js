@@ -1,4 +1,4 @@
-/* global describe, it, expect */
+/# global describe, it, expect */
 
 import TPLSmartDevice from './index.js'
 
@@ -15,3 +15,4 @@ describe('TPLSmartDevice', () => {
     expect(TPLSmartDevice.decrypt(Buffer.from('c3a6caa6c9e99ef183ef8b', 'hex')).toString('utf8')).toBe('hello world')
   })
 })
+ 
